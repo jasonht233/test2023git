@@ -1,3 +1,3 @@
 # test2023git
 
-"hello"
+"hello why termianl cannot work"
